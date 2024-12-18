@@ -1,9 +1,7 @@
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://visitcount.itsvg.in/api?id=mayrxi&label=Profile%20Views&color=1&icon=5&pretty=true" />
-</div>
+
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <h1 style="margin: 0;">Hi 👋, I'm Mayurakshi <3</h1>
+  <h1 style="margin: 0;">Hiiiii , I'm Mayurakshi <3</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=270&height=30&lines=Software%20Architect%3BCloud%20Solutions%3BTech%20Innovator" style="margin-left: 10px;" />
 </div>
  
