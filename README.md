@@ -3,12 +3,10 @@
 </div>
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <h1 style="margin: 0;">Hi 👋, I'm mayrxi</h1>
+  <h1 style="margin: 0;">Hi 👋, I'm Mayurakshi <3</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=270&height=30&lines=Software%20Architect%3BCloud%20Solutions%3BTech%20Innovator" style="margin-left: 10px;" />
 </div>
  
-
-hola! I'm Mayurakshi <3
 
 
 💻 Programming Languages
@@ -53,12 +51,6 @@ hola! I'm Mayurakshi <3
  Browsers
 
 ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat&logo=chrome&logoColor=white) ![Edge](https://img.shields.io/badge/Edge-4285F4?style=flat&logo=edge&logoColor=white)
-
- 📊 GitHub Statistics
-
-<p>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mayrxi&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
-</p>
 
 
 
